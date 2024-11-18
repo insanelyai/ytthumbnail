@@ -6,11 +6,10 @@
   "Navbar": {
     "sign_in": "Sign In",
     "sign_up": "Sign Up",
-    "product": "Product",
-    "docs": "Docs",
-    "blog": "Blog",
-    "community": "Community",
-    "company": "Company"
+    "features": "Features",
+    "pricing": "Pricing",
+    "generate": "Generate",
+    "community": "Community"
   },
   "Hero": {
     "follow_twitter": "Follow @Ixartz on Twitter",
